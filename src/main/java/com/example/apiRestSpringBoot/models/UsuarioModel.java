@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.apiRestSpringBoot.models;
 
 import javax.persistence.*;
 
